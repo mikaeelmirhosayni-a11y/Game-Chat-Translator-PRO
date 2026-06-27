@@ -1,0 +1,92 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/نسخه-6.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/پایتون-3.10+-green?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/مجوز-MIT-yellow?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/پلتفرم-Windows-blue?style=for-the-badge&logo=windows" alt="Platform">
+</p>
+
+<h1 align="center">
+  🎮 مترجم چت بازی PRO
+</h1>
+
+<h3 align="center">
+  ⚡ ترجمه فارسی به هر زبانی با شخصیت‌های باحال ⚡
+</h3>
+
+<p align="center">
+  <b>پنجره شناور</b> • <b>همیشه روی بازی</b> • <b>ارسال با یک کلیک</b> • <b>۵ شخصیت مختلف</b>
+</p>
+
+---
+
+## 📸 تصاویر برنامه
+
+<p align="center">
+  <img src="screenshots/demo.gif" width="600" alt="Demo">
+</p>
+
+---
+
+## ✨ ویژگی‌ها
+
+<table>
+  <tr>
+    <td>🪟 <b>پنجره شناور</b></td>
+    <td>همیشه روی بازی می‌مونه، نیمه‌شفاف</td>
+  </tr>
+  <tr>
+    <td>⌨️ <b>کلیدهای میانبر</b></td>
+    <td><code>Ctrl+/</code> نمایش/مخفی • <code>Ctrl+1</code> ترجمه و ارسال</td>
+  </tr>
+  <tr>
+    <td>🎭 <b>۵ شخصیت</b></td>
+    <td>عادی • گیمر • سمی • سیگما • چیل</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>۱۲ زبان</b></td>
+    <td>انگلیسی، عربی، ژاپنی، کره‌ای، چینی، اسپانیایی، فرانسوی، آلمانی، روسی، ترکی، پرتغالی، ایتالیایی</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>تایپ خودکار</b></td>
+    <td>شبیه‌سازی تایپ انسان با سرعت قابل تنظیم</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>تشخیص پنجره بازی</b></td>
+    <td>پنجره بازی رو خودکار پیدا می‌کنه، نیاز به Alt+Tab نداری</td>
+  </tr>
+  <tr>
+    <td>💾 <b>ذخیره خودکار تنظیمات</b></td>
+    <td>تنظیماتت رو یادش می‌مونه</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>ظاهر مدرن و تاریک</b></td>
+    <td>طراحی تمیز، مینیمال و حرفه‌ای</td>
+  </tr>
+</table>
+
+---
+
+## 🎭 حالت‌های شخصیت
+
+| شخصیت | سبک | "سلام خوبی؟" میشه... |
+|--------|------|-------------------------|
+| 👤 **عادی** | ترجمه ساده و دقیق | `Hello, how are you?` |
+| 😎 **گیمر** | اسلنگ بازی | `YO WASSUP` |
+| 😈 **سمی** | ترش‌تاک و کری | `sup lil bro` |
+| 🗿 **سیگما** | خونسرد و مرموز | `hm . . .` |
+| 🥶 **چیل** | بی‌خیال و ریلکس | `heyyy cool` |
+
+---
+
+## 🚀 راه‌اندازی سریع
+
+```bash
+# ۱. دانلود پروژه
+git clone https://github.com/YOUR_USERNAME/game-chat-translator.git
+cd game-chat-translator
+
+# ۲. نصب کتابخونه‌ها
+pip install -r requirements.txt
+
+# ۳. اجرا
+python translator.py
