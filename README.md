@@ -82,7 +82,7 @@
 
 ```bash
 # ۱. دانلود پروژه
-git clone https://github.com/YOUR_USERNAME/game-chat-translator.git
+https://github.com/mikaeelmirhosayni-a11y/Game-Chat-Translator-PRO
 cd game-chat-translator
 
 # ۲. نصب کتابخونه‌ها
